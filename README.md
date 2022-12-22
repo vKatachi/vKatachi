@@ -1,0 +1,3 @@
+ - ![image](https://user-images.githubusercontent.com/121259181/209213058-20e6bdbd-a021-4342-ac64-d26e32e64d9b.png) Hi, I’m @vKatachi
+ - ![image](https://user-images.githubusercontent.com/121259181/209213144-0bb54e4c-bf5a-42db-b8dd-c67346a39338.png) I’m interested in programming, visual arts, games and science
+ - ![image](https://user-images.githubusercontent.com/121259181/209212988-be423e97-51c4-4ab0-9aa3-32e769f99021.png) I’m currently learning Python, HTML, CSS and JavaScript
